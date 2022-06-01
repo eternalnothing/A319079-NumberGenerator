@@ -1,5 +1,5 @@
 # A319079-NumberGenerator
-The 3n+1 problem is a well known problem is mathematics. Start with any number. Then, divide the number by 2 if it is even or multiply the number by 3 and add 1 to it if it is odd. Continue this procedure with the resulting number. The Collatz Conjecture states that every starting number will eventually reach 1. For example, the sequence that starts with 13 is given below:
+The 3n+1 problem is a well known problem in mathematics. Start with any number. Then, divide the number by 2 if it is even or multiply the number by 3 and add 1 to it if it is odd. Continue this procedure with the resulting number. The Collatz Conjecture states that every starting number will eventually reach 1. For example, the sequence that starts with 13 is given below:
 
 13 -> 40 -> 20 -> 10 -> 5 -> 16 -> 8 -> 4 -> 2 -> 1 -> 4 -> 2 -> 1 -> ...
 
